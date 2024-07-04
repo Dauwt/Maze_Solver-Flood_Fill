@@ -47,6 +47,6 @@ If you want to make **more features** to this code I recommend trying to make a 
 
 #### Notice That You Can Change Different Variables Of The Script To Chance The Theme
 
-### **Made by Dauwt©**
+### **Made by Dauwt**
 
 ### Copyright (c) 2024 Dauwt
